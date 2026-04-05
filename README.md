@@ -1,2 +1,1 @@
-# lesson
-https://github.com/Feliks1983/lesson.git
+https://feliks1983.github.io/lesson/
